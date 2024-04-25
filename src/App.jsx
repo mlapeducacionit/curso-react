@@ -12,7 +12,7 @@ function App() {
  
   return (
     <main className='container'>
-      <h1 className='text-danger display-2'>Hola mundo!</h1>
+      <h1 className='text-success display-2'>Hola mundo!</h1>
       <hr />
       <Productos />
     </main>
